@@ -15,10 +15,10 @@ ___INFO___
   "securityGroups": [],
   "displayName": "Items to Yandex Metrika Measurement Protocol",
   "description": "Converts GA4 ecommerce items array into query string parameters compatible with Yandex Metrika Measurement Protocol\nhttps://yandex.ru/dev/metrika/en/data-import/measurement-upload",
-  "categories": [
-    "SERVER",
-    "ANALYTICS"
-  ]
+  "containerContexts": [
+    "SERVER"
+  ],
+  "categories": ["UTILITY"]
 }
 
 
