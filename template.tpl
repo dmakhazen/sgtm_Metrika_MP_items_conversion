@@ -16,7 +16,8 @@ ___INFO___
   "displayName": "Items to Yandex Metrika Measurement Protocol",
   "description": "Converts GA4 ecommerce items array into query string parameters compatible with Yandex Metrika Measurement Protocol\nhttps://yandex.ru/dev/metrika/en/data-import/measurement-upload",
   "containerContexts": [
-    "SERVER"
+    "SERVER",
+    "ANALYTICS"
   ]
 }
 
