@@ -1,5 +1,5 @@
-homepage: "https://example.com"
-documentation: "https://example.com/docs/my-template"
+homepage: "https://github.com/dmakhazen/sgtm_Metrika_MP_items_conversion"
+documentation: "https://github.com/dmakhazen/sgtm_Metrika_MP_items_conversion#readme"
 versions:
-  - sha: 5f02a788b90ae804f86b04aa24af8937e567874a
+  - sha: 89a6f742f62d7d1e291757bab69d67a38a121e8f
     changeNotes: Initial release.
