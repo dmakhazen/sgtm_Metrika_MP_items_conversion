@@ -1,5 +1,5 @@
 homepage: "https://github.com/dmakhazen/sgtm_Metrika_MP_items_conversion"
 documentation: "https://github.com/dmakhazen/sgtm_Metrika_MP_items_conversion#readme"
 versions:
-  - sha: b9f5d39c7f6ebc98974e67b4e7abf17a3b2e03d9
+  - sha: 43f27c937d4bf2a92fcfad0d78579928bf82deb7
     changeNotes: Initial release.
