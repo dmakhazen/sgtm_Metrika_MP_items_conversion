@@ -81,6 +81,10 @@ for (var i = 0; i < items.length; i++) {
   }
 }
 
+if (result.charAt(0) === '&') {
+  result = result.slice(1);
+}
+
 return result;
 
 
