@@ -22,7 +22,7 @@ The variable takes a GA4 items array and returns a string of query parameters in
 
 **Output** (query string):
 ```
-&pr1id=123&pr1nm=Phone&pr1pr=9779&pr1qt=1&pr1br=Google&pr1ca=Electronics
+pr1id=123&pr1nm=Phone&pr1pr=9779&pr1qt=1&pr1br=Google&pr1ca=Electronics
 ```
 
 ## Supported fields
